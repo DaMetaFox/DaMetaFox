@@ -1,13 +1,10 @@
 # 👋 Hi, I’m @ptApol0 
 
-- My real name is Pedro
-- I'm 13
+> - My real name is Pedro
+> - I'm 13
 
 I'm only good at one thing...
-
-...eat...
-
-
+##### ...eat...
 ###   ...but I also like to learn
 
 <!---
