@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @NiceMan
+# 👋 Hi, I’m @TheNiceBigMan
 
 > - My real name is Pedro
 > - I'm 13
