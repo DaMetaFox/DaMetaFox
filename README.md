@@ -11,15 +11,15 @@
 
 <!-- about-->
 <h3> About Me:</h3>
-<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎉 18th feb </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎉 18th feb 2008</p>
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📌 Algarve, Portugal </p>
-
+<!-- my best teacher: youtube-->
 <br>
 <p> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> </p>
 
 <br>
 <h3> My Skills: </h3>
-<p><img align="center" src="https://github.com/DaMetaFox/DaMetaFox/blob/main/pictures/_icon_python.png" width="25"/>&nbsp;➡️&nbsp;⭐⭐⭐⭐</p>
+<p><img align="center" src="https://github.com/DaMetaFox/DaMetaFox/blob/main/pictures/_icon_python3.png" width="25"/>&nbsp;➡️&nbsp;⭐⭐⭐⭐</p>
 <p><img align="center" src="https://github.com/DaMetaFox/DaMetaFox/blob/main/pictures/_icon_arduino.png" width="25"/>&nbsp;➡️&nbsp;⭐</p>
 <p><img align="center" src="https://github.com/DaMetaFox/DaMetaFox/blob/main/pictures/_icon_html5.png" width="25"/>&nbsp;➡️&nbsp;⭐</p>
 <p><img align="center" src="https://github.com/DaMetaFox/DaMetaFox/blob/main/pictures/_icon_cSharp.png" width="25"/>&nbsp;➡️&nbsp;<img align="center" src="https://github.com/DaMetaFox/DaMetaFox/blob/main/pictures/workingOn.svg" width="100"/></p>
