@@ -51,7 +51,7 @@
 <h3> Talk with me </h3>
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discord 👉&nbsp;
-   <a href="https://discord.gg/user/780499836050341929">
+   <a href="https://discord.gg/hXyhbs6Arh">
     <img align = "center" src="https://github.com/DaMetaFox/DaMetaFox/blob/main/pictures/_icon_discord.png" width="35"/>
   </a>
 </p>
